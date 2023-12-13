@@ -1,0 +1,142 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Gezi"
+    },
+    {
+      "id": 2,
+      "ad": "Yemek"
+    },
+    {
+      "id": 3,
+      "ad": "Otel"
+    }
+  ],
+  "content": [
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.0229876803764!2d28.97046587645071!3d41.02475301840969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab9e635c0a951%3A0xbe4f48b36c3cd6d9!2sSen%20Piyer%20Kilisesi!5e0!3m2!1str!2str!4v1700904798473!5m2!1str!2str",
+      "id": 2,
+      "kategori": "Gezi",
+      "isim": "St Pierre Kilisesi",
+      "img": "img/stpierre.jpg",
+      "desc": "Saint Pierre Kilisesi veya Aziz Petrus Kilisesi, Stauris Dağı'nın batısında kayalara oyulmuş 13 metre derinliğinde, 9,5 metre genişliğinde ve 7 metre yüksekliğinde bir mağaradan oluşmaktadır. Antakya'daki ilk Hristiyanların gizli toplantıları için kullandıkları bu mağara Hristiyanlığın en eski kiliselerinden biri olarak kabul edilir.",
+      "yorumlar": [
+        ""
+      ]
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.8047232262725!2d29.156657289599966!3d41.007647145604075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf3d680b0597%3A0xf5a6bf473fa6f78a!2sModoko%20Habibi%20Neccar%20Cami!5e0!3m2!1str!2str!4v1701190438497!5m2!1str!2str",
+      "id": 1,
+      "kategori": "Gezi",
+      "isim": "Habibi Neccar Camii",
+      "img": "img/habibineccar.jpg",
+      "desc": "Habib-i Neccar Camii, Antakya'da bulunan tarihî cami. Kurtuluş Caddesi üzerinde bulunan cami, Antakya şehrinin Müslüman Araplar tarafından fethedildiği 7. yüzyılda inşa edilmiş eski bir caminin yerinde 11. yüzyılda Memlüklüler döneminde inşa edilmiş; 19. yüzyılda Osmanlı mimarisi tarzında yenilenmiştir. Hem Müslümanlar hem de Hıristiyanlar tarafından da ziyaret edilen, ortak dinsel mekandır.Camii, 2023 Kahramanmaraş depremlerinde ağır hasar almıştır.  Girişindeki türbenin İsa peygamberin çarmıha gerilişinden sonra Hristiyanlık dinini yaymak için Antakya'ya gelen Yahya (Barnabas) ve Yunus (Pavlos) adlı havarilere; kuzeydoğu köşesinde yerin 4 metre altındaki mezarın ise onlara inanan ilk kişi olduğu düşünülen Habib-i Neccar’a ait olduğu varsayılır"
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.6797094370204!2d36.1530811883427!3d36.19867063028777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c34ecc534d19%3A0xcbd92b02afe6343c!2zQXNpIG5laHJpIGvEsXnEsXPEsQ!5e0!3m2!1str!2str!4v1701190566991!5m2!1str!2str",
+      "id": 3,
+      "kategori": "Gezi",
+      "isim": "Asi Nehri",
+      "img": "img/asinehri.jpg",
+      "desc": "Asi Nehri, Lübnan'daki Bikâ Vadisi'nin doğu kısmından doğar ve Türkiye'nin Hatay ilinden Akdeniz'e dökülür. Asi Nehri'nin toplam uzunluğu 556 km olup, 366 km Suriye'de, 98 km Türkiye'de, 40 km Lübnan'dadır. 52 km'si Türkiye-Suriye sınırını oluşturur[1]. Antakya ile Akdeniz'e doğal su yolu bağlanmış olan Asi Nehri'nin ortalama su debisi 30 m³/sn dir. Kış mevsimi ile ilkbaharda taşkınlar nedeniyle pek çok su baskını yaşanmıştır."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3218.8023072479887!2d36.182182276276436!3d36.21999980018966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c1f199b2ceeb%3A0x40ce51865b27d70d!2sHatay%20Arkeoloji%20M%C3%BCzesi!5e0!3m2!1str!2str!4v1701190650595!5m2!1str!2str",
+      "id": 4,
+      "kategori": "Gezi",
+      "isim": "Hatay Arkeoloji Muzesi",
+      "img": "img/arkeoloji.jpg",
+      "desc": "Hatay Arkeoloji Müzesi, çağdaş müzeciliğin bütün donanımlarına sahip olarak yapılan yeni binasında 2014 yılından itibaren ziyaretçilere hizmet vermektedir. Müzede, Paleolitik, Neolitik, Kalkolitik, Tunç Çağı, Hitit, Hellenistik, Roma, Doğu Roma, Selçuklu ve Osmanlı döneminden pek çok önemli eser yer almakta olup ayrıca sergilenen mozaiklerin toplam alanı 3250 m2 yi bulması nedeniyle, dünyanın en büyük mozaiklerinin sergilendiği müze unvanına da sahip olmuştur."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.508030012277!2d36.14176227627343!3d36.129841705199816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c5b20e2bf31b%3A0x28182ea7a63ea2b1!2sHarbiye%20%C5%9Eelalesi!5e0!3m2!1str!2str!4v1701190707578!5m2!1str!2str",
+      "id": 5,
+      "kategori": "Gezi",
+      "isim": "Harbiye Selalesi",
+      "img": "img/harbiyeselale.jpg",
+      "desc": "Roma zamanlarından beri bilinen Harbiye veya Daphne Seleukos; Pallas, Kastalia ve Saramannda adları ile de tanımlanmaktadır. Mitoloji tarihinde Nehir Tanrısının kızının peşinden koşan aşk, şiir ve müzik tanrısından Apollo'dan kurtulmak isteyen Daphne'nin hikayesi oldukça meşhurdur. Tanrıya yalvaran Daphne'nin yakarışlarını duyan toprak ana, Daphne'nin bedenini ağaca, kollarını dallara ve saçlarını da yapraklara dönüştürür. Şelalenin oluşumunun ise Dapne'nin gözyaşlarından oluştuğuna inanılmaktadır. Ağaçlık ortamların arasında restoran, yöresel ürünlerin satışa sunulduğu tezgahlar, küçük çay bahçeleri bulunmaktadır. Şelale Asi nehrine dökülmektedir."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.756337428114!2d36.15636348834238!3d36.19680733039288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c3cd92fd15df%3A0x54bc81967570f9d8!2sKonak%20Restaurant!5e0!3m2!1str!2str!4v1701190996136!5m2!1str!2str",
+      "id": 6,
+      "kategori": "Yemek",
+      "isim": "Antakya Konak Lokantası",
+      "img": "img/konaklokanta.jpg",
+      "desc": "İki günlük Hatay seyahatimizdeki Konak Restaurant’ı en son deneyimlememize rağmen listede ilk sıraya koyuyorum çünkü unutulmaz bir final yaşadık burada. Konak Restaurant, Hatay’ın ambiyansı en şahane mekanı olabilir. Böyle otantik bir ortamda tatlar da iyi olunca keyif otomatik olarak dört köşe oluyor."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.4954366576594!2d36.16290387627604!3d36.20315110112681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c22d5e9e4d13%3A0x35a3e5dadf53d843!2sP%C3%B6%C3%A7%20Kasap%20ve%20Restaurant!5e0!3m2!1str!2str!4v1701191044332!5m2!1str!2str",
+      "id": 7,
+      "kategori": "Yemek",
+      "isim": "Pöç Kasabı",
+      "img": "img/pockasap.jpg",
+      "desc": "Hatay’a gitmeden önce ‘nerede ne yiyelim’ diye Instagram’da ve çevremde biraz araştırma yaptım. İstinasız herkesin tavsiye ettiği yegane mekandı Pöç Kasabı. Uzun Çarşı’nın içerisinde konuşlanan ve minicik bir girişi olan dükkanın vitrininde etler sallanıyor. Bildiğiniz kasap yani. Tam böyle salaş bir yer herhalde diye kendi kendimize konuşurken içeriye girmemizle üç katlı devasa bir mekan karşıladı bizi. Kuzu etinden sanat yaptıklarına inandığım Pöç Kasabı’nda Kağıt Kebabı ve Tepsi Kebabı yemeden sakın ola çıkmayın."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.1129538388473!2d36.12199577627289!3d36.11510580601778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c57107c7c889%3A0x6fa7e73267879937!2sHAMMU%C5%9EUN%20YER%C4%B0%20YA%C4%9EMUR%20KAHVALTI%20SALONU!5e0!3m2!1str!2str!4v1701191163278!5m2!1str!2str",
+      "info": "En ünlü yemek : Köy Kahvaltısı \n Ortalama kişi başı fiyat = 100₺ ",
+      "id": 8,
+      "kategori": "Yemek",
+      "isim": "Hammuşun Yeri",
+      "img": "img/hammus.jpg",
+      "desc": "Hatay’daki gezinizin verimli geçebilmesi için araba kiralamanız şart çünkü mesafeler çok kısa değil. Bizim gibi kalabalık bir ekipseniz şoförlü minibüs kiralamanız en mantıklısı olur. Merkeze 20-25 dakika uzaklıkta olan Döver Köyü'ndeki 85 yıllık Hammuş'un Yeri (Yağmur Restaurant olarak da geçiyor) olmazsa olmaz kahvaltı mekanlarından biri. Şu an üçüncü kuşaktan Hatice Hanım’ın işlettiği ve sundukları her şeyi kendilerinin ürettiği Hammuş’un Yeri için “Yok böyle kahvaltı!”"
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3207.606288603346!2d36.192836176285866!3d36.49122428505485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525f5d9aaaaaaab%3A0x1538469647a429ca!2sKurto%C4%9Flu%20Restaurant!5e0!3m2!1str!2str!4v1701191197058!5m2!1str!2str",
+      "id": 9,
+      "kategori": "Yemek",
+      "isim": "Kurtoğlu Restorant Belen",
+      "img": "img/kurtoglubelen.jpg",
+      "desc": "İskenderun dönüşü Belen ilçesindeki Kurtoğlu Restaurant’ta yediğimiz Belen Tava, Hatay'da en beğendiğimiz spesiyallerden biriydi. Tok olmamıza rağmen saldırdık yemeğe. Kurtoğlu, Hatay’ın en iyilerinden. 1950'den beri ayakta. Kuzu eti, sebze ve sarımsak sotenin eritilmiş kuyruk yağı ile birlikte güveçte 30-35 dakika pişirilmesiyle ortaya çıkan bu kocaman porsiyonlu lezzetin fiyatı ise 75 TL. Belen Tava’nın pişmesi uzun sürdüğünden gelmeden sipariş vererek geziniz için vakit kazanbilirsiniz."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.488469189552!2d36.160674976275864!3d36.20332050111729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c232c54ffdd9%3A0x571112e17705c4bc!2zw4fEsW5hcmFsdMSxIEvDvG5lZmUgWXVzdWYgVXN0YQ!5e0!3m2!1str!2str!4v1701191315570!5m2!1str!2str",
+      "id": 10,
+      "kategori": "Yemek",
+      "isim": "Çınaraltı Künefe",
+      "img": "img/cinaralti.jpg",
+      "desc": "Antakya’da belki de endüstriyelleşmiş künefe yapmayan tek dükkan. Geleneksel olandan tek farkı, tuzsuz peynirin taze keçi sütü yerine inek sütü olması. Herhalde artık pek bulunmuyor keçi sütü. Antakya’da künefe bol şerbetli seviliyor. Benim damak tadım farklı. Üzerine bol şerbet dökülünce, doğal tereyağının ne kokusu kalıyor ne lezzeti… Künefeyi üzerine hiç şerbet döktürmeden bir tadın. Harika bir börek! Sonra şerbeti üzerine döktürmeyip yanında farklı kapta isteyin ve künefeyi azıcık şerbete batırın. O zaman tatlı oluyor ama şerbet içinizi baymıyor. Bence böyle olunca ‘cheesecake’ tipi tatlıların hem kralı hem de kraliçesi. Tek bir rica… Sakın Çınaraltı’nda acele etmeyin ve çalışanları strese sokmayın. Odun kömüründe künefe pişirmek zaman alıyor ama tarihi, güzel bir meydandasınız."
+    },
+    {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.127317645493!2d35.861522776282065!3d36.38191179116603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525f9b0ffffffff%3A0x7b1305670d1b4e8e!2sArsuz%20Bungalov%20%26%20Tiny%20Houses!5e0!3m2!1str!2str!4v1701191356429!5m2!1str!2str",
+      "id": 11,
+      "kategori": "Otel",
+      "isim": "Arsuz Bungalov & Tiny Houses",
+      "img": "img/arsuzbungalov.jpg",
+      "fiyat": 100
+    },
+    {
+      "id": 12,
+      "kategori": "Otel",
+      "isim": "The Museum Hotel Antakya",
+      "img": "img/themuseumhotel.jpg",
+      "fiyat": 200,
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.139566239082!2d36.17059357627618!3d36.21180250064569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c354d0fdb233%3A0xecea64a507d73816!2sThe%20Museum%20Hotel%20Antakya!5e0!3m2!1str!2str!4v1701191410261!5m2!1str!2str"
+    },
+    {
+      "id": 13,
+      "kategori": "Otel",
+      "isim": "Artes Hotel",
+      "img": "img/arteshotel.jpg",
+      "fiyat": 300,
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.96714363588!2d36.11722107627542!3d36.19168090176462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c36fa8ab9f5f%3A0x6fc001f761e50efe!2sArtes%20Hotel!5e0!3m2!1str!2str!4v1701191483828!5m2!1str!2str"
+    },
+    {
+      "id": 14,
+      "kategori": "Otel",
+      "isim": "Luwi Antakya Butik",
+      "img": "img/luwiantakya.jpg",
+      "fiyat": 400,
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.6934424742994!2d36.160079776275666!3d36.19833670139438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c3c8c3b06825%3A0x9f8948cbc09c353d!2sLuwi%20Antakya%20Boutique%20Hotel!5e0!3m2!1str!2str!4v1701191517166!5m2!1str!2str"
+    },
+    {
+      "id": 15,
+      "kategori": "Otel",
+      "isim": "Liwan Hotel",
+      "img": "img/liwanhotel.jpg",
+      "fiyat": 500,
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.6830562062114!2d36.158169176275784!3d36.19858925138054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1525c3c8c3b06825%3A0x9f8948cbc09c353d!2sLuwi%20Antakya%20Boutique%20Hotel!5e0!3m2!1str!2str!4v1701191703459!5m2!1str!2str"
+    }
+  ]
+}

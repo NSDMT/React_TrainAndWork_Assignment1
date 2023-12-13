@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.content-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-card img {
+  max-height: 300px;
+  /* Set a max height for images */
+  object-fit: cover;
+  /* This will make sure images cover the area nicely */
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* Adjust the button style as needed */
+.more-info-btn {
+  margin-top: auto;
+  /* Pushes the button to the bottom of the card */
+}
